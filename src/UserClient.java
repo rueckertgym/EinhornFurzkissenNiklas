@@ -1,5 +1,5 @@
 package src;
-import Utils.Client;
+import src.Utils.Client;
 
 import java.util.Scanner;
 

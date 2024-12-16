@@ -1,6 +1,6 @@
 package src;
 
-import Utils.Server;
+import src.Utils.Server;
 
 public class ShopServer extends Server {
     public ShopServer(int pPort) {
